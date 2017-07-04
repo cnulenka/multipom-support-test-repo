@@ -26,7 +26,7 @@
   <groupId>io.openshift.booster</groupId>
   <artifactId>multipom-support-test-repo</artifactId>
   <version>1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   <name>multipom-support-test-repo</name>
   <description>Exposes an HTTP API using Vert.x</description>
