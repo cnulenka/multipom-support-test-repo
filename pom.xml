@@ -215,4 +215,8 @@
       </build>
     </profile>
   </profiles>
+
+  <modules>
+    <module>test</module>
+  </modules>
 </project>
