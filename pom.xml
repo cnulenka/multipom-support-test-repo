@@ -24,11 +24,11 @@
     <version>21</version>
   </parent>
   <groupId>io.openshift.booster</groupId>
-  <artifactId>multipom-support-test-repo</artifactId>
+  <artifactId>http-vertx</artifactId>
   <version>1-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <packaging>jar</packaging>
 
-  <name>multipom-support-test-repo</name>
+  <name>Vert.x - HTTP</name>
   <description>Exposes an HTTP API using Vert.x</description>
 
   <properties>
